@@ -33,8 +33,6 @@ body nav {
   background-color: burlywood;
   margin-top: 20px;
   border-radius: 10px;
-  -webkit-transform: scale(1.15);
-          transform: scale(1.15);
   -webkit-filter: blur(0.3px);
           filter: blur(0.3px);
 }
