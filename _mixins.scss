@@ -1,0 +1,6 @@
+@mixin anchor-nav-hover($border-color) {
+    border: 1px solid $border-color;
+    padding: $padding-standard;
+    box-shadow: $box-shadow;
+    border-radius: $border-radius;
+  }
